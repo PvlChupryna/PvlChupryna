@@ -14,6 +14,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Gulp-%23CF4647?style=for-the-badge&logo=Gulp&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Php-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto">
 
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto">
 
