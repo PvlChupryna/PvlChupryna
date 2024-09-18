@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hey! Nice to see you.</h1>
 
 ###
-<h3>Welcome to my page! </br> I am Pol, a web developer. I'll be posting my work here. </h3>
+<h3>Welcome to my page! </br> I'm Pol, web developer. I'll be posting my work here. </h3>
 <h4>Things I code with</h4>
 
 <p>
