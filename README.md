@@ -4,8 +4,8 @@
 <h1 align="center">👋 Hey! Nice to see you.</h1>
 
 ###
-<h2>Welcome to my page! </br> I am Pol, a web developer. I'll be posting my work here. </h2>
-<h3>Things I code with</h3>
+<h3>Welcome to my page! </br> I am Pol, a web developer. I'll be posting my work here. </h3>
+<h4>Things I code with</h4>
 
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
