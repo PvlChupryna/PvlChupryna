@@ -8,7 +8,8 @@
 <h4>Things I code with</h4>
 
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
+<!--   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"> -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Gulp-%23CF4647?style=for-the-badge&logo=Gulp&logoColor=white&logoSize=auto">
