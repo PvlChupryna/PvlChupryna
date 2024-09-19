@@ -20,8 +20,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto">
 </p>
---
-###
+
 <table>
     <tr>
         <td>
