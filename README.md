@@ -25,7 +25,6 @@
     <tr>
         <td>
           <h3>Lidia</h3>
-[Demo](https://pvlchupryna.github.io/Lidia/)
 <!-- LIDIA -->
 <table>
     <tr>
