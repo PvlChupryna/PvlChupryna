@@ -23,7 +23,7 @@
 
 <table>
     <tr>
-        <td>
+        <td style="vertical-align: top; max-width: 50%;">
           <h3>Lidia</h3>
 <!-- LIDIA -->
 <table>
@@ -43,7 +43,7 @@
                 <li>Hover Effects</li>
             </ul>
         </td>
-        <td style=" max-width: 50%;">
+        <td style=" max-width: 50%; vertical-align: top;">
            <a href="https://pvlchupryna.github.io/Lidia/" target="_blank" rel="noopener noreferrer">
                 <img style="margin-left: 300px;" width="150" src="./assest/Lidia-demo.jpeg" alt="demo">
            </a>
@@ -52,7 +52,7 @@
 </table>
         </td>
 <!--   SUP -->
-        <td style="max-width: 50%;">
+        <td style="max-width: 50%; vertical-align: top;">
           <h3>Sup</h3> 
           <table>
               <tr>
