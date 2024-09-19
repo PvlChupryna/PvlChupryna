@@ -23,12 +23,12 @@
 
 <table style="max-width: 846px">
     <tr>
-        <td style="max-width: 423px; vertical-align: top; max-width: 50%;" valign="top">
+        <td style="vertical-align: top; max-width: 423px;" valign="top">
           <h3>Lidia</h3>
 <!-- LIDIA -->
 <table style="max-width=423px">
     <tr>
-        <td  style="vertical-align: top; max-width: 50%;" valign="top">
+        <td  style="vertical-align: top; max-width: 423px;" valign="top">
             <h4>Technologies:</h4>
             <p>
                 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
@@ -43,7 +43,7 @@
                 <li>Hover Effects</li>
             </ul>
         </td>
-        <td  style=" max-width: 50%; vertical-align: top;" valign="top">
+        <td  style=" max-width: 423px; vertical-align: top;" valign="top">
            <a href="https://pvlchupryna.github.io/Lidia/" target="_blank" rel="noopener noreferrer">
                 <img style="margin-left: 300px;" width="150" src="./assest/Lidia-demo.jpeg" alt="demo">
            </a>
@@ -54,9 +54,9 @@
 <!--   SUP -->
         <td  style="max-width: 423px; max-width: 50%; vertical-align: top;" valign="top">
           <h3>Sup</h3> 
-          <table style="max-width=423px">
+          <table>
               <tr>
-                  <td  style="vertical-align: top; max-width: 50%;" valign="top">
+                  <td  style="vertical-align: top; max-width: 423px;" valign="top">
                       <h4>Technologies:</h4>
                       <p>
                           <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
@@ -71,7 +71,7 @@
                           <li>No responsive design included.</li>
                       </ul>
                   </td>
-                  <td  style=" max-width: 50%;" valign="top">
+                  <td  style="max-width: 423px;" valign="top">
                      <a href="https://pvlchupryna.github.io/Sup/" target="_blank" rel="noopener noreferrer">
                           <img  width="150" src="./assest/sup-prev.jpeg" alt="demo">
                      </a>
