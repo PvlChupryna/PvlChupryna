@@ -34,8 +34,8 @@
             <ul>
                 <h4>Description:<h4>
                 <li>A simple landing page.</li>
-                <li>Practice in layout design.</li>
-                <li>No responsive design included.</li>
+                <li>Practice in layout <br/> design.</li>
+                <li>No responsive design <br/> included.</li>
                 <li>Hover Effects</li>
             </ul>
         </td>
