@@ -28,7 +28,7 @@
 <!-- LIDIA -->
 <table>
     <tr>
-        <td valign="top" style="vertical-align: top;">
+        <td valign="top" style="vertical-align: top; max-width: 50%;">
             <h4>Technologies:</h4>
             <p>
                 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
@@ -43,7 +43,7 @@
                 <li>Hover Effects</li>
             </ul>
         </td>
-        <td style="margin-left: 200px;">
+        <td style=" max-width: 50%;">
            <a href="https://pvlchupryna.github.io/Lidia/" target="_blank" rel="noopener noreferrer">
                 <img style="margin-left: 300px;" width="150" src="./assest/Lidia-demo.jpeg" alt="demo">
            </a>
@@ -52,11 +52,11 @@
 </table>
         </td>
 <!--   SUP -->
-        <td>
+        <td style="max-width: 50%;">
           <h3>Sup</h3> 
           <table>
               <tr>
-                  <td valign="top" style="vertical-align: top;">
+                  <td valign="top" style="vertical-align: top; max-width: 50%;">
                       <h4>Technologies:</h4>
                       <p>
                           <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
@@ -71,7 +71,7 @@
                           <li>No responsive design included.</li>
                       </ul>
                   </td>
-                  <td style="margin-left: 200px;">
+                  <td style="margin-left: 200px; max-width: 50%;">
                      <a href="https://pvlchupryna.github.io/Sup/" target="_blank" rel="noopener noreferrer">
                           <img  width="150" src="./assest/sup-prev.jpeg" alt="demo">
                      </a>
