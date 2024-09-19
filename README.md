@@ -24,7 +24,7 @@
 <table>
     <tr>
         <td>
-          # Lidia
+          <h3>Lidia</h3>
 [Demo](https://pvlchupryna.github.io/Lidia/)
 
 <table>
