@@ -26,7 +26,7 @@
         <td>
           <h3>Lidia</h3>
 [Demo](https://pvlchupryna.github.io/Lidia/)
-
+<!-- LIDIA -->
 <table>
     <tr>
         <td valign="top" style="vertical-align: top;">
@@ -45,7 +45,7 @@
         </td>
         <td style="margin-left: 200px;">
            <a href="https://pvlchupryna.github.io/Lidia/" target="_blank" rel="noopener noreferrer">
-                <img style="margin-left: 300px;" width="150" src="./docs/IMG/Lidia-demo.jpeg" alt="demo">
+                <img style="margin-left: 300px;" width="150" src="./assest/Lidia-demo.jpeg" alt="demo">
            </a>
         </td>
     </tr>
