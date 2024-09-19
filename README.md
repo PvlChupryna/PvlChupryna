@@ -21,9 +21,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto">
 </p>
 
-<table style="max-width=846px">
+<table style="max-width: 846px">
     <tr>
-        <td style="vertical-align: top; max-width: 50%;" valign="top">
+        <td style="max-width: 423px; vertical-align: top; max-width: 50%;" valign="top">
           <h3>Lidia</h3>
 <!-- LIDIA -->
 <table style="max-width=423px">
@@ -52,7 +52,7 @@
 </table>
         </td>
 <!--   SUP -->
-        <td  style="max-width: 50%; vertical-align: top;" valign="top">
+        <td  style="max-width: 423px; max-width: 50%; vertical-align: top;" valign="top">
           <h3>Sup</h3> 
           <table style="max-width=423px">
               <tr>
