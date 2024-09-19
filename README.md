@@ -26,7 +26,7 @@
         <td style="vertical-align: top; max-width: 50%;" valign="top">
           <h3>Lidia</h3>
 <!-- LIDIA -->
-<table>
+<table style="max-width=423px">
     <tr>
         <td  style="vertical-align: top; max-width: 50%;" valign="top">
             <h4>Technologies:</h4>
@@ -54,7 +54,7 @@
 <!--   SUP -->
         <td  style="max-width: 50%; vertical-align: top;" valign="top">
           <h3>Sup</h3> 
-          <table>
+          <table style="max-width=423px">
               <tr>
                   <td  style="vertical-align: top; max-width: 50%;" valign="top">
                       <h4>Technologies:</h4>
