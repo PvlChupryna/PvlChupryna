@@ -40,6 +40,7 @@
                 <li>A simple landing page.</li>
                 <li>Practice in layout design.</li>
                 <li>No responsive design included.</li>
+                <li>Hover Effects</li>
             </ul>
         </td>
         <td style="margin-left: 200px;">
@@ -52,8 +53,7 @@
         </td>
 <!--   SUP -->
         <td>
-          # Sup
-          [Demo](https://pvlchupryna.github.io/Sup/)
+          <h3>Sup</h3> 
           <table>
               <tr>
                   <td valign="top" style="vertical-align: top;">
@@ -73,7 +73,7 @@
                   </td>
                   <td style="margin-left: 200px;">
                      <a href="https://pvlchupryna.github.io/Sup/" target="_blank" rel="noopener noreferrer">
-                          <img  width="150" src="./docs/images/sup-prev.jpeg" alt="demo">
+                          <img  width="150" src="./assest/sup-prev.jpeg" alt="demo">
                      </a>
                   </td>
               </tr>
