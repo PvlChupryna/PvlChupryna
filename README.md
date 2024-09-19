@@ -22,9 +22,9 @@
 </p>
 
 <h3>Lidia</h3>
-<table style="max-width=423px">
+<table>
     <tr>
-        <td  style="vertical-align: top; max-width: 423px;" valign="top">
+        <td  style="vertical-align: top; max-width: 300px;" valign="top">
             <h4>Technologies:</h4>
             <p>
                 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
@@ -39,7 +39,7 @@
                 <li>Hover Effects</li>
             </ul>
         </td>
-        <td  style=" max-width: 423px; vertical-align: top;" valign="top">
+        <td  style=" max-width: 300px; vertical-align: top;" valign="top">
            <a href="https://pvlchupryna.github.io/Lidia/" target="_blank" rel="noopener noreferrer">
                 <img style="margin-left: 300px;" width="150" src="./assest/Lidia-demo.jpeg" alt="demo">
            </a>
