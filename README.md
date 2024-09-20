@@ -21,6 +21,32 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto">
 </p>
 
+<h3>Crossfit</h3>
+<table>
+    <tr>
+        <td valign="top">
+            <h4>Technologies:</h4>
+            <p>
+                <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
+              <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
+            </p>
+                <hr>
+            <ul>
+                <h4>Description:<h4>
+                <li>A simple landing page.</li>
+                <li>Practice in layout design.</li>
+                <li>Hover Effects</li>
+                <li>No responsive design included.</li>
+            </ul>
+        </td>
+        <td >
+           <a href="https://pvlchupryna.github.io/Sup/" title="Go to demo" target="_blank" rel="noopener noreferrer">
+                <img  width="200" src="./assest/crossfit-prev.jpeg" alt="demo">
+           </a>
+        </td>
+    </tr>
+</table>
+
 <h3>SeaFood</h3>
 <table>
     <tr>
@@ -41,7 +67,7 @@
         </td>
         <td style="margin-left: 200px;">
            <a href="https://pvlchupryna.github.io/Sup/" title="Go to demo" target="_blank" rel="noopener noreferrer">
-                <img  width="150" src="./assest/sea-food-prev.jpeg" alt="demo">
+                <img  width="200" src="./assest/sea-food-prev.jpeg" alt="demo">
            </a>
         </td>
     </tr>
@@ -67,7 +93,7 @@
         </td>
         <td valign="top">
            <a href="https://pvlchupryna.github.io/Lidia/" target="_blank" rel="noopener noreferrer">
-                <img width="150" src="./assest/Lidia-demo.jpeg" alt="demo">
+                <img width="200" src="./assest/Lidia-demo.jpeg" alt="demo">
            </a>
         </td>
     </tr>
@@ -93,7 +119,7 @@
             </td>
             <td   valign="top">
                <a href="https://pvlchupryna.github.io/Sup/" target="_blank" rel="noopener noreferrer">
-                    <img  width="150" src="./assest/sup-prev.jpeg" alt="demo">
+                    <img  width="200" src="./assest/sup-prev.jpeg" alt="demo">
                </a>
             </td>
         </tr>
