@@ -101,7 +101,7 @@
             </ul>
         </td>
         <td >
-           <a href="https://pvlchupryna.github.io/Sup/" title="Go to demo" target="_blank" rel="noopener noreferrer">
+           <a href="https://pvlchupryna.github.io/Crossfit/" title="Go to demo" target="_blank" rel="noopener noreferrer">
                 <img  width="200" src="./assest/crossfit-prev.png" alt="demo">
            </a>
         </td>
@@ -127,7 +127,7 @@
             </ul>
         </td>
         <td style="margin-left: 200px;">
-           <a href="https://pvlchupryna.github.io/Sup/" title="Go to demo" target="_blank" rel="noopener noreferrer">
+           <a href="https://pvlchupryna.github.io/SeaFood/" title="Go to demo" target="_blank" rel="noopener noreferrer">
                 <img  width="200" src="./assest/sea-food-prev.png" alt="demo">
            </a>
         </td>
