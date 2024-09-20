@@ -53,24 +53,21 @@
         <td  style="vertical-align: top; max-width: 300px;" valign="top">
             <h4>Technologies:</h4>
             <p>
-                <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
-              <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
-              <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
-              <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
+              <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
               <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
             </p>
                 <hr>
             <ul>
                 <h4>Description:<h4>
                 <li>A simple landing page.</li>
-                <li>Practice in layout <br/> design.</li>
-                <li>No responsive design <br/> included.</li>
+                <li>Practice in layout design.</li>
+                <li>No responsive design included.</li>
                 <li>Hover Effects</li>
             </ul>
         </td>
-        <td  style=" max-width: 300px; vertical-align: top;" valign="top">
+        <td valign="top">
            <a href="https://pvlchupryna.github.io/Lidia/" target="_blank" rel="noopener noreferrer">
-                <img style="margin-left: 300px;" width="150" src="./assest/Lidia-demo.jpeg" alt="demo">
+                <img width="150" src="./assest/Lidia-demo.jpeg" alt="demo">
            </a>
         </td>
     </tr>
@@ -79,7 +76,7 @@
  <h3>Sup</h3> 
     <table>
         <tr>
-            <td  style="vertical-align: top; max-width: 423px;" valign="top">
+            <td  valign="top">
                 <h4>Technologies:</h4>
                 <p>
                     <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
@@ -94,7 +91,7 @@
                     <li>No responsive design included.</li>
                 </ul>
             </td>
-            <td  style="max-width: 423px;" valign="top">
+            <td   valign="top">
                <a href="https://pvlchupryna.github.io/Sup/" target="_blank" rel="noopener noreferrer">
                     <img  width="150" src="./assest/sup-prev.jpeg" alt="demo">
                </a>
