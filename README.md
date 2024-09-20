@@ -93,7 +93,7 @@
         </td>
         <td valign="top">
            <a href="https://pvlchupryna.github.io/Lidia/" title="Go to demo" target="_blank" rel="noopener noreferrer">
-                <img width="200" src="./assest/Lidia-prev.jpeg" alt="demo">
+                <img width="200" src="./assest/lidia-prev.jpeg" alt="demo">
            </a>
         </td>
     </tr>
