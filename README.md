@@ -41,7 +41,7 @@
         </td>
         <td >
            <a href="https://pvlchupryna.github.io/Sup/" title="Go to demo" target="_blank" rel="noopener noreferrer">
-                <img  width="200" src="./assest/crossfit-prev.jpeg" alt="demo">
+                <img  width="200" src="./assest/crossfit-prev.png" alt="demo">
            </a>
         </td>
     </tr>
@@ -67,7 +67,7 @@
         </td>
         <td style="margin-left: 200px;">
            <a href="https://pvlchupryna.github.io/Sup/" title="Go to demo" target="_blank" rel="noopener noreferrer">
-                <img  width="200" src="./assest/sea-food-prev.jpeg" alt="demo">
+                <img  width="200" src="./assest/sea-food-prev.png" alt="demo">
            </a>
         </td>
     </tr>
@@ -92,7 +92,7 @@
             </ul>
         </td>
         <td valign="top">
-           <a href="https://pvlchupryna.github.io/Lidia/" target="_blank" rel="noopener noreferrer">
+           <a href="https://pvlchupryna.github.io/Lidia/" title="Go to demo" target="_blank" rel="noopener noreferrer">
                 <img width="200" src="./assest/Lidia-demo.jpeg" alt="demo">
            </a>
         </td>
@@ -118,8 +118,8 @@
                 </ul>
             </td>
             <td   valign="top">
-               <a href="https://pvlchupryna.github.io/Sup/" target="_blank" rel="noopener noreferrer">
-                    <img  width="200" src="./assest/sup-prev.jpeg" alt="demo">
+               <a href="https://pvlchupryna.github.io/Sup/" title="Go to demo" target="_blank" rel="noopener noreferrer">
+                    <img  width="200" src="./assest/sup-prev.png" alt="demo">
                </a>
             </td>
         </tr>
