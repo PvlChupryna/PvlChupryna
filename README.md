@@ -22,7 +22,6 @@
 </p>
 
 <h3>Travel-Agent</h3>
-click to img.
 <table>
     <tr>
         <td valign="top" style="vertical-align: top;">
