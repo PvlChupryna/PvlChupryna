@@ -22,7 +22,7 @@
 </p>
 
 <h3>Travel-Agent</h3>
-[Demo](https://pvlchupryna.github.io/Travel-Agent/)
+click to img.
 <table>
     <tr>
         <td valign="top" style="vertical-align: top;">
